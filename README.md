@@ -1,4 +1,7 @@
 🎓 Student Academic Performance Insights (Machine Learning Project)
+
+
+
 📘 Introduction
 
 This project focuses on building an intelligent system that analyzes various academic, behavioral, and lifestyle factors to estimate a student’s overall academic performance.
